@@ -152,8 +152,7 @@ O contorno é reconhecível e preserva a silhueta do animal. As linhas horizonta
 
 ## Vídeo de Demonstração
 
-📹 **[Link para o vídeo]()**  
-*(Adicionar link após upload)*
+**[Link para o vídeo](https://drive.google.com/file/d/14BKKN6EXkceNXoiiUovxE4YA2bEXj8hz/view?usp=sharing)**  
 
 ---
 
