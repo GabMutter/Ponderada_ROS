@@ -144,7 +144,7 @@ Todos os serviços são chamados de forma **síncrona** com `rclpy.spin_until_fu
 
 A imagem abaixo mostra o contorno do cachorro reproduzido pelo Turtlesim após a execução completa da pipeline:
 
-![Resultado do Turtlesim](./1779503473729_image.png)
+![Resultado do Turtlesim](contorno_dog.png)
 
 O contorno é reconhecível e preserva a silhueta do animal. As linhas horizontais que aparecem no interior da figura são resultado do comportamento do Sobel em regiões de textura interna da imagem (pelo do cachorro), onde variações de intensidade também geram gradientes detectáveis. Esse efeito poderia ser reduzido aumentando o threshold ou aplicando uma etapa adicional de morfologia (dilatação/erosão), mas foi mantido pois não compromete a legibilidade do contorno geral.
 
